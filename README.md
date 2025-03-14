@@ -1,1 +1,5 @@
 # INTEREST-RATES-ANALYSIS-ON-FX-PAIRS
+
+ a widening US-Euro real interest rate differential (where US rates rise faster than Euro rates) should lead to EUR/USD depreciation
+ ![output-2](https://github.com/user-attachments/assets/375321f1-c8aa-4a0e-9796-895ade1d1799)
+![output](https://github.com/user-attachments/assets/8ac79e6f-485f-457b-bf70-8c3e84c47227)
