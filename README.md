@@ -3,3 +3,4 @@
  a widening US-Euro real interest rate differential (where US rates rise faster than Euro rates) should lead to EUR/USD depreciation
  ![output-2](https://github.com/user-attachments/assets/375321f1-c8aa-4a0e-9796-895ade1d1799)
 ![output](https://github.com/user-attachments/assets/8ac79e6f-485f-457b-bf70-8c3e84c47227)
+<img width="1710" alt="Screenshot 2025-03-14 at 13 38 45" src="https://github.com/user-attachments/assets/9895918e-c3d1-4c94-83a3-71e6a2978441" />
